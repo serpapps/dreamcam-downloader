@@ -1,87 +1,150 @@
-# SERP DreamCam Downloader
+# DreamCam Downloader (Browser Extension)
 
-**Record DreamCam live streams and download recordings — straight from your browser.**
+> Browser extension for recording DreamCam live streams, saving model recordings, and downloading supported VR videos as MP4.
 
-[![Download](https://img.shields.io/badge/Get_It-SERP_DreamCam_Downloader-ff4f70?style=for-the-badge)](https://serp.cc/VDM-dreamcam-video-downloader)
+A browser extension made for DreamCam users who want to keep access to live broadcasts, recorded videos, and supported VR content without relying on temporary streaming access. It detects media directly on DreamCam pages, gives you simple capture controls, and saves files locally in a standard MP4 format for offline playback. No desktop software required. 3 free downloads included.
 
-SERP DreamCam Downloader is a browser extension built exclusively for [DreamCam](https://dreamcamtrue.com). It lets you record live streams in real time and save recorded videos from model pages — all without leaving your browser or installing any desktop software. Videos are saved as standard MP4 files that play anywhere. Three free downloads are included so you can try it before you buy.
+- Record DreamCam live broadcasts while they are happening
+- Download recorded videos from performer pages
+- Save supported VR streams with playback-friendly metadata
+- Pick from available qualities before you download
+- Keep local MP4 copies for offline viewing and archiving
 
-## Why DreamCam Downloader?
+## Links
 
-DreamCam streams cannot be saved with a simple right-click. The platform delivers content through a specialized streaming protocol that prevents direct downloads. SERP DreamCam Downloader was purpose-built to handle this. It works quietly in the background, converts streams into standard MP4 files, and saves them directly to your Downloads folder — organized and ready to watch offline.
+- Get it here: [https://serp.ly/dreamcam-video-downloader](https://serp.ly/dreamcam-video-downloader)
+- Latest release: [https://github.com/serpapps/dreamcam-downloader/releases/latest](https://github.com/serpapps/dreamcam-downloader/releases/latest)
+- Help center: [https://help.serp.co/en/](https://help.serp.co/en/)
+- Report bugs: [https://github.com/serpapps/dreamcam-downloader/issues](https://github.com/serpapps/dreamcam-downloader/issues)
+- Request features: [https://github.com/serpapps/dreamcam-downloader/issues](https://github.com/serpapps/dreamcam-downloader/issues)
 
-## Key Features
+## Table of Contents
 
-- **Live stream recording** — Capture any live DreamCam broadcast with simple start and stop controls
-- **Recorded video downloads** — Save model recordings and VODs from video pages
-- **VR stream support** — Downloads VR broadcasts with proper metadata for correct playback in VR headsets
-- **Quality selector** — Choose from all available resolutions before you download
-- **In-page download button** — A capture button appears right on the video player for quick access
-- **Right-click menu** — Right-click any DreamCam page and select "Download DreamCam Stream"
-- **Real-time progress** — See segment counts, elapsed time, and download speed as captures happen
-- **Organized downloads** — Files auto-save to a dedicated DREAMCAM folder inside your Downloads directory
-- **Multi-browser support** — Works on Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex
-- **Automatic updates** — Get notified when a new version is available
+- [Why DreamCam Downloader](#why-dreamcam-downloader)
+- [Features](#features)
+- [How It Works](#how-it-works)
+- [Supported Formats](#supported-formats)
+- [Who It's For](#who-its-for)
+- [Common Use Cases](#common-use-cases)
+- [Trial & Access](#trial--access)
+- [Installation Instructions](#installation-instructions)
+- [FAQ](#faq)
+- [Notes](#notes)
+- [About DreamCam](#about-dreamcam)
+
+## Why DreamCam Downloader
+
+DreamCam is optimized for streaming sessions inside the site, not for building an offline library. Live rooms end, recordings are easy to lose track of, and VR content is especially awkward to save with generic downloader tools. Even when you can see the video in your browser, that does not mean there is a clean native way to keep it.
+
+DreamCam Downloader is built around those specific workflows. It focuses on DreamCam model pages, detects live and recorded media, surfaces the available stream options, and saves files locally in a format that is easier to replay later. For supported VR content, it also keeps the metadata needed for better playback compatibility.
+
+## Features
+
+- Live room recorder with Start and Stop controls
+- Recorded video downloads from DreamCam performer pages
+- VR stream support where DreamCam exposes compatible media
+- Quality picker for available resolutions
+- In-player download controls on supported pages
+- Popup interface for capture management
+- Right-click actions for faster access
+- Download progress with timing and speed feedback
+- Automatic saving into a dedicated DREAMCAM folder
+- Cross-browser support for Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex
 
 ## How It Works
 
-1. **Install** — Add SERP DreamCam Downloader to your browser from the release page.
-2. **Browse** — Go to DreamCam and open any model's page.
-3. **Capture** — Click the download button on the player, the extension icon in your toolbar, or right-click the page.
-4. **Save** — For live streams, press Start to record and Stop when finished. For recorded videos, pick your quality and hit Download. Your MP4 file saves automatically.
+1. Install the extension from the latest release.
+2. Open DreamCam and navigate to a live room or recorded video page.
+3. Let the media load so the extension can detect the available stream.
+4. Use the player button, popup, or right-click menu to open the capture options.
+5. Choose the quality or stream option you want.
+6. Record the live broadcast or download the recording.
+7. Save the video locally as an MP4 file.
 
 ## Supported Formats
 
-All downloads are saved as standard, universally compatible **MP4** files. Available source types include live streams, recorded videos (VODs), and VR streams — each with multiple resolution options sorted from highest to lowest quality.
+- Input: DreamCam live streams, recorded videos, and supported VR streams
+- Output: MP4
+
+Saved files use a standard MP4 format so they are easier to replay in common media players, move between devices, and organize in your own archive.
 
 ## Who It's For
 
-- DreamCam viewers who want to save live moments for offline playback
-- Users who prefer watching recorded content without buffering or internet dependency
-- VR enthusiasts who want to keep VR broadcasts with correct playback metadata
-- Anyone who wants a simple, browser-based solution with no extra software to install
+- DreamCam viewers who want to keep live sessions before they end
+- Users who want offline access to recorded model videos
+- VR viewers who want to preserve supported immersive content
+- People archiving content they are allowed to keep
+- Anyone who wants a browser-first workflow instead of manual stream extraction
 
 ## Common Use Cases
 
-- **Record a favorite live broadcast** — Start capturing when a model goes live, stop when you are done
-- **Save recorded videos for offline viewing** — Download VODs from a model's video page at your preferred quality
-- **Build a personal offline collection** — Downloads are neatly organized in a dedicated folder
-- **Capture VR content** — Record VR streams that retain the metadata needed for proper VR playback
-- **Quick one-click saves** — Use the in-page button or right-click menu for the fastest workflow
+- Record a DreamCam live broadcast for later viewing
+- Download a model recording from a video page
+- Save VR content for replay on a compatible headset or player
+- Build an offline collection of videos you have permission to access
+- Keep videos locally before they disappear from the site
+- Use direct page controls instead of inspecting network requests or source files
 
 ## Trial & Access
 
-SERP DreamCam Downloader includes **3 free downloads** — no credit card required. Just sign in with your email to activate the trial. Need unlimited downloads? Upgrade to a full license for unrestricted access to all features including live recording, VOD downloads, and VR captures.
+- Includes **3 free downloads** so you can test it first
+- Email sign-in uses secure one-time password verification
+- No credit card required for the free trial
+- Unlimited downloads available with a paid license
+
+Start here: [https://serp.ly/dreamcam-video-downloader](https://serp.ly/dreamcam-video-downloader)
+
+## Installation Instructions
+
+1. Open the latest release page:
+   [https://github.com/serpapps/dreamcam-downloader/releases/latest](https://github.com/serpapps/dreamcam-downloader/releases/latest)
+2. Download the extension build for your browser.
+3. Install it in your browser.
+4. Open DreamCam and go to a live room or recorded video.
+5. Use the extension controls to begin recording or downloading.
 
 ## FAQ
 
-**How do I record a live stream?** Open any live model page on DreamCam, click the extension icon or the player button, press "Start" to record and "Stop" to finish. The file saves as MP4.
+**Can I record DreamCam live streams?**  
+Yes. Open a live room, start the recording, and stop it when you are done. The extension saves the capture as MP4.
 
-**Can I download recorded videos?** Yes. Navigate to a model's video page. The extension detects it as a recording and offers quality options for direct download.
+**Can I download recorded DreamCam videos too?**  
+Yes. The extension supports recorded videos from DreamCam pages in addition to live stream capture.
 
-**What quality options are available?** All available resolutions for the current stream or recording are shown, sorted from highest to lowest.
+**Does it support VR streams?**  
+Yes, where DreamCam exposes supported VR-compatible media. The extension preserves playback-related metadata when available.
 
-**Where are my downloads saved?** Videos save to a DREAMCAM subfolder inside your browser's default Downloads directory.
+**What quality options are available?**  
+The extension lists the stream qualities made available by the source media. Availability depends on the specific room or recording.
 
-**Does this support VR streams?** Yes. VR broadcasts are detected automatically and downloaded with VR metadata for correct playback.
+**Where are downloads saved?**  
+Videos are saved into a DREAMCAM subfolder inside your browser's default Downloads directory.
 
-**How many free downloads do I get?** Three after signing in with your email. Purchase a license for unlimited use.
+**How many free downloads do I get?**  
+Three. Sign in with your email to activate them. A paid license unlocks unlimited downloads.
 
-**Which browsers are supported?** Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex.
+**Which browsers are supported?**  
+Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex.
 
-**Is my data safe?** All processing happens locally in your browser. Sign-in uses a secure one-time-password system with no stored passwords.
+**Do I need extra software?**  
+No. Detection, capture, and download handling are done through the browser extension.
 
-## Notes (Important)
+**Is my data safe?**  
+Yes. Video handling is performed in your browser workflow, and sign-in uses a secure one-time-password system.
 
-- The model must be currently live for live capture to work. Offline or private shows will display a status message.
-- Video quality depends on the source stream. The extension cannot enhance beyond what is available.
-- An active internet connection is required during capture and download.
-- Users are responsible for ensuring they have the right to download content. This extension is intended for downloading content you own or have permission to download.
+## Notes
+
+- Only download content you own or have explicit permission to download
+- Live capture only works while the model is actively broadcasting
+- Some content may require account access or paid access
+- VR support depends on the specific stream and source media provided
+- Available quality depends on what DreamCam exposes for that video
+- Video quality cannot be enhanced beyond the original source stream
+
+## About DreamCam
+
+DreamCam is a streaming platform centered around live model rooms, recorded videos, and immersive content experiences. It is built for in-browser viewing, which makes offline access awkward when you want to keep content available later. DreamCam Downloader was built to make that process simpler for users who want local copies of content they are permitted to access.
 
 ## Get It
 
-**Product page:** [https://serp.ly/dreamcam-video-downloader](https://serp.ly/dreamcam-video-downloader)<br>
-**Help center:** [https://help.serp.co/en/](https://help.serp.co/en/)<br>
-**Latest release:** [https://github.com/serpapps/dreamcam-video-downloader/releases/latest](https://github.com/serpapps/dreamcam-video-downloader/releases/latest)
-
-[![Get SERP DreamCam Downloader](https://img.shields.io/badge/Download_Now-SERP_DreamCam_Downloader-ff4f70?style=for-the-badge)](https://serp.cc/VDM-dreamcam-video-downloader)
+**[Download DreamCam Downloader](https://serp.ly/dreamcam-video-downloader)**
