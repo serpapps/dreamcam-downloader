@@ -12,15 +12,15 @@ DreamCam Downloader is a browser extension made for users who want to keep Dream
 
 ## Links
 
-- 🚀 Get it here: [DreamCam Downloader](https://serp.ly/dreamcam-video-downloader)
-- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/dreamcam-downloader/releases/latest)
-- ❓ Help center: [SERP Help](https://help.serp.co/en/)
-- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/dreamcam-downloader/issues)
-- 💡 Request features: [Feature Requests](https://github.com/serpapps/dreamcam-downloader/issues)
+- ðŸš€ Get it here: [DreamCam Downloader](https://serp.ly/dreamcam-video-downloader)
+- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/dreamcam-downloader/releases/latest)
+- â“ Help center: [SERP Help](https://help.serp.co/en/)
+- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/dreamcam-downloader/issues)
+- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/dreamcam-downloader/issues)
 
 ## Preview
 
-![DreamCam Downloader workflow preview](assets/workflow-preview.svg)
+![DreamCam Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
